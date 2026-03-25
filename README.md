@@ -34,7 +34,7 @@
 
 ```typescript
 const abdou = {
-  role:       ["Front-end Developer", "UI/UX Designer", "AI Builder"],
+  role:       ["Front-end Developer for NOW", "UI/UX Designer", "AI Builder"],
   location:   "Algeria 🇩🇿",
   mindset:    "Product-first. Design-obsessed. Builder by nature.",
   currently:  "Building AgroConnect — CommingSoon",
