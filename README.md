@@ -157,7 +157,7 @@ VocaFind is a mobile-first AI assistant that lets you search your files, notes, 
 
 <!-- CONTRIBUTION SNAKE -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/your-username/abderrahman18/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/abderrahman18/abderrahman18/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
