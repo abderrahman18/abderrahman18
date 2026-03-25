@@ -56,8 +56,8 @@ I specialize in creating systems that are fast, clean, and purposeful — combin
 <tr>
 <td width="50%">
 
-### 🌾 AgroConnect *commingSoon*
-A full-stack agri-tech marketplace platform. Real users. Real value. Real product.
+### 🌾 AgroConnect (CommingSoon) *commingSoon*
+
 `React` · `PostgreSQL` · `Java` · `REST API`
 
 </td>
@@ -101,18 +101,9 @@ AI-powered voice file search — mobile-first, $0 budget, production-ready visio
 
 ## 🚀 Featured Projects
 
-### 🌾 AgroConnect — *Flagship Product*
+### 🌾 AgroConnect (CommingSoon) — *Flagship Product*
 > **The platform where agriculture meets technology**
 
-AgroConnect is a full-stack marketplace and resource-sharing platform built specifically for the agricultural sector. It enables users to list services, equipment, and investment opportunities — bringing a fragmented industry into one cohesive digital ecosystem.
-
-**What makes it real:**
-- ✅ Full authentication system (register, login, sessions)
-- ✅ Marketplace for services, equipment & investments
-- ✅ Resource upload and sharing system
-- ✅ Modern React UI with smooth animations
-- ✅ PostgreSQL database with relational design
-- ✅ Designed end-to-end: Figma → Frontend → Backend → DB
 
 [![View Project](https://img.shields.io/badge/View_Project-AgroConnect-2c5364?style=for-the-badge&logo=github)](https://github.com/your-username/agroconnect)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Coming_Soon-38bdf8?style=for-the-badge)](https://github.com/your-username/agroconnect)
