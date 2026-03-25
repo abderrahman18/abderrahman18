@@ -56,7 +56,7 @@ I specialize in creating systems that are fast, clean, and purposeful — combin
 <tr>
 <td width="50%">
 
-### 🌾 AgroConnect (CommingSoon) *commingSoon*
+### 🌾 AgroConnect (CommingSoon)
 
 `React` · `PostgreSQL` · `Java` · `REST API`
 
